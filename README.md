@@ -5,3 +5,5 @@ Run python qtRemoteRender.py, choose a blender file, optionally pack all resourc
 After the render is complete hit view render to pull the file to a local temp directory and open in the built-in image viewer (from PySide6 website).
 
 Windows only.
+
+![Main interface screenshot](Screenshots/Main_Interface.png?raw=true "Main Interface")
