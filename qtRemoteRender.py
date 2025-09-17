@@ -99,6 +99,7 @@ def remoteIPPrompt(parent):
     
     remoteIPPassword = QtWidgets.QLineEdit()
     remoteIPPassword.setPlaceholderText("Password")
+    remoteIPPassword.setEchoMode(QtWidgets.QLineEdit.EchoMode.Password)
 
     remoteIPPasswordLabel = QtWidgets.QLabel("Remote Password:")
     remoteIPPasswordLabel.setBuddy(remoteIPPassword)
