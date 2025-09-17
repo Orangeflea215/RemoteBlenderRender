@@ -6,4 +6,4 @@ After the render is complete hit view render to pull the file to a local temp di
 
 Windows only.
 
-![Main interface screenshot](Screenshots/Main_Interface.png?raw=true "Main Interface")
+![Main interface screenshot](/Screenshots/Main_Interface.png?raw=true "Main Interface")
